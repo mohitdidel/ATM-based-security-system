@@ -14,7 +14,7 @@ This project aims to enhance ATM security using biometric authentication. Instea
 
 🚀 Installation
 1. Clone the Repository
-git clone (https://github.com/chelimillarohith/-Biometric-Based-ATM-Security-System/)
+git clone (https://github.com/mohitdidel/ATM-Security-System/)
 cd biometric-atm-security
 
 2. Install Dependencies
